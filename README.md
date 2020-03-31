@@ -1,24 +1,24 @@
 # Old_gunrange
 
-Add a shooting stand to your server where you can train your aim
+Adicione um suporte de tiro ao seu servidor, onde você poderá treinar sua mira
 
 ## Informations
 
-   - 5 difficulty levels (from easy to impossible)
-   - For more realism, you are automaticaly switched to first person view when the test starts
-   - You can choose how many targets you want to shoot (from 10 to 20)
-   - You can get 1-5 points from each target, depending how good shooter you are. 
-   - Nearby players can see your score in chat (if config is set properly :) )
-   - You can config which weapons will be authorized to get points while shooting (config.lua)
+   - 5 níveis de dificuldade (do fácil ao impossível)
+   - Para obter mais realismo, você muda automaticamente para a visão em primeira pessoa quando o teste é iniciado
+   - Você pode escolher quantos alvos você deseja atirar (de 10 a 20)
+   - Você pode obter de 1 a 5 pontos de cada alvo, dependendo do bom atirador que você é.
+   - Jogadores próximos podem ver sua pontuação no chat (se a configuração estiver definida corretamente :))
+   - Você pode configurar quais armas serão autorizadas a ganhar pontos durante o disparo (config.lua)
    
-## Rrequirements
+## Requisitos
 
-   - es_extended => https://github.com/ESX-Org/es_extended
+   - es_extended => https://github.com/ESX-Brasil/es_extended
 
-## Installation
+## Instalação
 
-1.	Install old_gunrange in your resources/[esx] folder
+1.	Instale o old_gunrange na sua pasta resources/[esx]
 
-2.	Add this in your server.cfg :
+2.	Adicione isso no seu server.cfg:
 
 > start old_gunrange
