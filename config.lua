@@ -1,6 +1,6 @@
 Config = {}
 Config.ChatMessages = false
-Config.Locale = 'fr'
+Config.Locale = 'br'
 
 Config.Gunrange = {
 
