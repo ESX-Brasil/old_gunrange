@@ -7,10 +7,17 @@ description 'Old Gunrange'
 version '1.0.0'
 
 client_scripts {
-    '@es_extended/locale.lua', 'locales/fin.lua', 'locales/en.lua',
-    'locales/fr.lua', 'config.lua', 'client/main.lua'
+    '@es_extended/locale.lua',
+    'locales/fin.lua',
+    'locales/en.lua',
+    'locales/fr.lua',
+    'locales/br.lua',
+    'config.lua',
+    'client/main.lua'
 }
 
 server_scripts {
-    '@mysql-async/lib/MySQL.lua', 'server/main.lua', 'server/scoreboard.lua'
+    '@mysql-async/lib/MySQL.lua',
+    'server/main.lua',
+    'server/scoreboard.lua'
 }
